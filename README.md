@@ -1,2 +1,2 @@
-# okul-devi
-ödev 
+ kod yazıldıktan sonra düzenlenecektir 
+ 
